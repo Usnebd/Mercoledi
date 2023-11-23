@@ -1,5 +1,5 @@
 # Mercoledi
-Progetto dell'esame "Basi di Dati" che ho fatto con un collega
+Progetto per l'esame "Basi di Dati"
 
 Issues:
   - decomporre la classe Costumi in C1(taglia, prezzo) e C2(personaggio, tema) per avere lo schema normalizzanto in Boyce-Codd
